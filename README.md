@@ -16,14 +16,6 @@ A structured repository documenting my journey toward mastering backend engineer
 * Observability & Monitoring
 * System Design Case Studies
 
-## Repository Structure
-
-```text
-notes/
-diagrams/
-projects/
-interview-questions/
-```
 
 ## Learning Goals
 
